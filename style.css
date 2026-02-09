@@ -9,6 +9,10 @@ h1{
     font-size: 22px;
 }
 
+p{
+    color: aquamarine;
+}
+
 html,body{
         width: 100%;    
         height: 100%;
